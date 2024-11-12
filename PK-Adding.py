@@ -1,6 +1,3 @@
-pip install streamlit
-import streamlit as st
-
 # Set the title and header with custom colors and font sizes
 st.markdown(
     "<h1 style='text-align: center; color: #FF6347;'>Fun Adding App for Toddlers</h1>",
